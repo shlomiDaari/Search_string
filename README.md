@@ -1,4 +1,4 @@
-serch for a string in every file in a given directory including subdirectories. 
+search for a string in every file in a given directory including subdirectories. 
 
 you can save the path to the files with the given string into a file in a location that you will choose by 
 changeing the below:
