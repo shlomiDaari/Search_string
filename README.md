@@ -1,1 +1,8 @@
-search string in a given directory [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dfor a string in a given directory and subdirectory [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[2~[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[ng in a files in a given directory and sub directory and save it into a file in location that you will choose. [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[D[C[1;6D[1;6D[include subdirectoryand save it into file 
+serch for a string in every file in a given directory including subdirectories. 
+
+you can save the path to the files with the given string into a file in a location that you will choose by 
+changeing the below:
+save_file = open(r'change it here', 'a')  # for example C:filewithstring.txt
+
+if you need to check for a string in a file that requied root privilige please run it from the cmd administrator. 
+
